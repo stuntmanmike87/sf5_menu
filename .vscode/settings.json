@@ -1,0 +1,20 @@
+{"liveSassCompile.settings.formats": [
+        
+    {
+    "format": "compressed",
+    "extensionName": ".min.css",
+    //"savePath": "~/../css/**"
+    //"savePath": "~/../css/"
+    "savePath": "/css"
+}],
+//"liveSassCompile.settings.autoprefix": null,
+"liveSassCompile.settings.autoprefix": false,
+"liveSassCompile.settings.excludeList": [
+
+    "/node_modules/**",
+    //"**/node_modules/**",
+    "/.vscode/**"
+    //".vscode/**"
+]
+
+}
