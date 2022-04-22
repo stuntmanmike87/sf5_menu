@@ -18,3 +18,42 @@
 ]
 
 }
+
+/* 
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "liveSassCompile.settings.formats":[
+            {
+                "format": "expanded",
+                "extensionName": ".css",
+                "savePath": "/dev/css"
+            },
+            {
+                "format": "compressed",
+                "extensionName": ".min.css",
+                "savePath": "/dist/css/"
+            },
+            {
+                "format": "expanded",
+                "extensionName": ".css",
+                "savePath": "~/../css/"
+            },
+            {
+                "format": "compressed",
+                "extensionName": ".min.css",
+                "savePath": "~/../css/"
+            }
+        ],
+        "liveSassCompile.settings.generateMap": false,
+        "liveSassCompile.settings.autoprefix": [
+            "> 1%",
+            "last 2 versions"
+        ]
+    }
+}
+ */

@@ -69,5 +69,10 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+# Symfony 4 Migrations DB
+/var/src/Migrations/*
+!var/src/Migrations/.gitignore
+
 #phpstorm
 .idea
+
